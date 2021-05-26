@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-image {
+  background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
+  background-color: rgb(41, 65, 171);
+  background-size: 175%;
+  background-position: 46% 4%;
+  -webkit-box-pack: center;
+  justify-content: center;
+  
+}
+.fondo {
+  background-image: url(https://cdn.discordapp.com/attachments/701847211176230962/814870402668560484/fondo202-1.png);
+  background-size: cover;
+  -webkit-box-pack: center;
+  justify-content: center;
+  
+}
